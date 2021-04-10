@@ -1,0 +1,94 @@
+﻿  Camera.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Utils.h(3,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Utils.h(21,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Camera.cpp(28,98): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Camera.cpp(29,99): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  GLUTCallbacks.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\GLUTCallbacks.cpp(39,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Gizmo.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Gizmo.cpp(88,39): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Gizmo.cpp(88,35): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Gizmo.cpp(95,36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Gizmo.cpp(98,33): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Gizmo.cpp(98,27): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Gizmo.cpp(98,21): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+  Mesh.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MeshLoader.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(151,46): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(151,93): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(151,140): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(152,47): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(152,95): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(152,143): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(153,49): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(153,99): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\MeshLoader.cpp(153,149): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLushort
+          ]
+  OpenGL.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.h(12,1): warning C4099: 'ListNode': type name first seen using 'class' now seen using 'struct'
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.h(11): message : see declaration of 'ListNode'
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SceneObject.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.h(12,1): warning C4099: 'ListNode': type name first seen using 'class' now seen using 'struct'
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.h(11): message : see declaration of 'ListNode'
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Utils.h(3,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Utils.h(21,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  SceneObjectList.cpp
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.h(12,1): warning C4099: 'ListNode': type name first seen using 'class' now seen using 'struct'
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.h(11): message : see declaration of 'ListNode'
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\Input.h(53,96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.cpp(223,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.cpp(226,35): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.cpp(228,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.cpp(228,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\OpenGL_Assignment2\SceneObjectList.cpp(228,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Texture2D.cpp
+  UIMenu.cpp
+  main.cpp
+  Generating Code...
+  OpenGL_Assignment2.vcxproj -> C:\Users\mairis\OneDrive - Staffordshire University\FOGS\OpenGL Assignment2\OpenGL_Assignment2 - Update\Debug\OpenGL_Assignment2.exe
